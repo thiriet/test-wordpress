@@ -1,0 +1,13 @@
+TODO
+Cloudformation :
+	- Prendre une iso HVM
+	- la register dans le scaling group
+
+Puppet 
+	- php 5.5
+	- ruby
+	- python
+	- bundle
+	- composer
+	- gem ?
+	- capistrano ?
